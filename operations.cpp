@@ -21,4 +21,6 @@ int divide(int numUno, int numDos){
 int main(){
     cout << suma(8,2) << "\n";
     cout << resta(8,2) << "\n";
+    cout << multiplicar(8,2) << "\n";
+    cout << divide(8,2) << "\n";
 }
