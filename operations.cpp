@@ -10,6 +10,14 @@ int resta(int numUno, int numDos){
     return numUno - numDos;
 }
 
+int multiplicar(int numUno, int numDos){
+    return numUno * numDos;
+}
+
+int divide(int numUno, int numDos){
+    return numUno / numDos;
+}
+
 int main(){
     cout << suma(8,2) << "\n";
     cout << resta(8,2) << "\n";
